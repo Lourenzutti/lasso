@@ -6,6 +6,5 @@ dependencies:
   - r-glmnet
   - r-gridextra
   - r-tidymodels
-  - r-broom
   - r-brq
   
