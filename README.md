@@ -1,10 +1,10 @@
 # r-conda
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/betatim/r-conda/master?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lourenzutti/lassoconda/master?urlpath=rstudio)
 
 > R and RStudio in repo2docker without waiting for packages to compile!
 
-Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r-conda/master?filepath=index.ipynb)
+Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/Lourenzutti/lassoconda/master?filepath=lasso.ipynb)
 
 RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r-conda/master?urlpath=rstudio)
 
